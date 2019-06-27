@@ -1,0 +1,10 @@
+framework module CsFramework {
+  umbrella header "CsFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CsFramework.__Swift {
+    exclude header "CsFramework-Swift.h"
+}

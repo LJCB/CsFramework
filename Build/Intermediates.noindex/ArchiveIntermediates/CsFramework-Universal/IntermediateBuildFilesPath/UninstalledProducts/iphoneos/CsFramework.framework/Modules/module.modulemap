@@ -1,0 +1,11 @@
+framework module CsFramework {
+  umbrella header "CsFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CsFramework.Swift {
+    header "CsFramework-Swift.h"
+    requires objc
+}

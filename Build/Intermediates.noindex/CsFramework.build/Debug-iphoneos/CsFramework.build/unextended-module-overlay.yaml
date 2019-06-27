@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/luisj.capistran/Documents/Framework/CsFramework/Build/Products/Debug-iphoneos/CsFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/luisj.capistran/Documents/Framework/CsFramework/Build/Intermediates.noindex/CsFramework.build/Debug-iphoneos/CsFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}
